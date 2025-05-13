@@ -19,8 +19,9 @@ This project is a RESTful API backend built with **FastAPI** and **SQLite** for 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vm675/dosa-restaurant-api.git
-   cd dosa-restaurant-api
+   git clone https://github.com/vm675/IS601_Final_Project.git
+   cd IS601_Final_Project
+
    ```
 
 2. **Create and activate a virtual environment:**
