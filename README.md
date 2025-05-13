@@ -19,7 +19,7 @@ This project is a RESTful API backend built with **FastAPI** and **SQLite** for 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dosa-restaurant-api.git
+   git clone https://github.com/vm675/dosa-restaurant-api.git
    cd dosa-restaurant-api
    ```
 
